@@ -30,8 +30,15 @@ body {
   padding: 40px;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 
-img {
+}
+
+  img {
   width: 600px;
   display: flex;
   justify-content: center;
